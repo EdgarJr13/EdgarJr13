@@ -1,8 +1,8 @@
 ### Hi everyone!! I'm Edgar 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgar-pinheiro-287702173/)](https://www.linkedin.com/in/edgar-pinheiro-287702173/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edGoal13)](https://twitter.com/edGoal13)
-[![Instagram Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.instagram.com/edgoal)](https://www.instagram.com/edgoal)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edgar-pinheiro-287702173/)](https://www.linkedin.com/in/edgar-pinheiro-287702173/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/edGoal13)](https://twitter.com/edGoal13)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/edgoal)](https://www.instagram.com/edgoal)
 <!--
 **EdgarJr13/EdgarJr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
