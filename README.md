@@ -9,6 +9,7 @@
 I'm a frontend, backend and mobile developer and I have been studying Computer Science at UVA (Universidade Veiga de Almeida). I always have been seeking to evolve in my carreer and in my knowledge about technologies. I like challenges! 😄
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EdgarJr13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJr13)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EdgarJr13/EdgarJr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
