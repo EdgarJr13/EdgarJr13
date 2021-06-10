@@ -4,9 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/edGoal13)](https://twitter.com/edGoal13)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/edgoal)](https://www.instagram.com/edgoal)
 
-## About me
+## 💬 About me
 
 I'm a frontend, backend and mobile developer and I have been studying Computer Science at UVA (Universidade Veiga de Almeida). I always have been seeking to evolve in my carreer and in my knowledge about technologies. I like challenges! 😄
+
+## 🏆 My GitHub Stats
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EdgarJr13)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJr13)](https://github.com/anuraghazra/github-readme-stats)
