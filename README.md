@@ -10,7 +10,8 @@ I'm a frontend, backend and mobile developer and I have been studying Computer S
 
 ## 🏆 My GitHub Stats
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EdgarJr13&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJr13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EdgarJr13&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJr13&theme=tokyonight)
 
 <!--
 **EdgarJr13/EdgarJr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
