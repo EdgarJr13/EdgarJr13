@@ -6,7 +6,7 @@
 
 ## 💬 About me
 
-I'm a frontend, backend and mobile developer and I have been studying Computer Science at UVA (Universidade Veiga de Almeida). I always have been seeking to evolve in my carreer and in my knowledge about technologies. I like challenges! 😄
+I'm a frontend, backend and mobile developer and I have I have a degree in Computer Science at UVA (Universidade Veiga de Almeida). I always have been seeking to evolve in my carreer and in my knowledge about technologies. I like challenges! 😄
 
 ## 🏆 My GitHub Stats
 
